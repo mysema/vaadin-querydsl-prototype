@@ -1,10 +1,10 @@
-## vaadin-querydsl-prototype
+## Vaadin Querydsl prototype
 
 Prototype of Vaadin/Querydsl JPA integration
 
-vaadin-querydsl-prototype provides extensions to the Vaadin JPAContainer methods to support Querydsl types.
+vaadin-querydsl-prototype provides extensions to the Vaadin `JPAContainer` methods to support Querydsl types.
 
-QuerydslJPAContainerFactory and QuerydslJPAContainer can be used as replacements for JPAContainer and JPAContainerFactory
+`QuerydslJPAContainerFactory` and `QuerydslJPAContainer` can be used as replacements for `JPAContainerFactory` and `JPAContainer`.
 
 ### Examples
 

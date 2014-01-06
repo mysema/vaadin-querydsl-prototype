@@ -33,7 +33,7 @@ complex filter
 
 The commented out code shows the original way to add filters and sorting.
 
-The supported Querydsl operations are and, or, not, like, eq, ne, isNull, startsWith,
-startsWithIc, contains, between, lt, gt, loe and goe.
+The supported Querydsl operations are `and`, `or`, `not`, `like`, `eq`, `ne`, `isNull`, `startsWith`,
+`startsWithIc`, `contains`, `between`, `lt`, `gt`, `loe` and `goe`.
 
 This code is just a prototype of a possible integration of Vaadin and Querydsl for JPA querying. It should not be used in production code.

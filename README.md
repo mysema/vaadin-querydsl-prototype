@@ -11,6 +11,8 @@ vaadin-querydsl-prototype provides extensions to the Vaadin `JPAContainer` metho
 filtering
 
     QPerson person = QPerson.person; // Querydsl generated type
+    QuerydslJPAContainer<Person> container = QuerydslJPAContainerFactory.make(Person.class, entityManager);
+    
     // container.addContainerFilter(new Equal("firstName", "Hello"));
     // container.addContainerFilter(new Equal("lastName", "World"));
     container.addContainerFilter(person.firstName.eq("Hello"));

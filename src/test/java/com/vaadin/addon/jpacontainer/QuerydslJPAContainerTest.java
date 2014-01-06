@@ -1,4 +1,5 @@
 /**
+ * Copyright 2014 Mysema Ltd
  * Copyright 2009-2013 Oy Vaadin Ltd
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

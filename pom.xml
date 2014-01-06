@@ -16,6 +16,13 @@
   <properties>
     <snapshot.repository.url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</snapshot.repository.url>
   </properties>
+  
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>LICENSE.txt</url>
+    </license>
+  </licenses>
     
   <dependencies>
     <dependency>
